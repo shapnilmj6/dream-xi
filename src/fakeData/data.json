@@ -1,0 +1,200 @@
+[
+    {
+        "id": 1,
+        "name": "AB De Villiers",
+        "country": "South Africa",
+        "bid": 700000,
+        "matches played": "78",
+        "role": "Batsman",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170999/ab-de-villiers.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Jos Buttler",
+        "country": "England",
+        "bid": 400000,
+        "matches played": "74",
+        "role": "Wicket-Keeper",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170980/jos-buttler.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Babar Azam",
+        "country": "Pakistan",
+        "bid": 500000,
+        "matches played": "77",
+        "role": "Batsman",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170768/babar-azam.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Jonny Bairstow",
+        "country": "England",
+        "bid": 450000,
+        "matches played": "46",
+        "role": "Batsman",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170976/jonny-bairstow.jpg"
+    },
+    {
+        "id": 5,
+        "name": "David Warner",
+        "country": "Australia",
+        "bid": 500000,
+        "matches played": "81",
+        "role": "Batsman",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170635/david-warner.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Kane Williamson",
+        "country": "New Zealand",
+        "bid": 450000,
+        "matches played": "64",
+        "role": "Batsman",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170733/kane-williamson.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Rahmanullah Gurbaz",
+        "country": "Afghanistan",
+        "bid": 100000,
+        "matches played": "10",
+        "role": "Batsman",
+        "img": "data:image/jpeg;base64,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"
+    },
+    {
+        "id": 8,
+        "name": "Chris Gayle",
+        "country": "Windies",
+        "bid": 300000,
+        "matches played": "58",
+        "role": "Batsman",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170801/chris-gayle.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Liton das",
+        "country": "Bangladesh",
+        "bid": 250000,
+        "matches played": "29",
+        "role": "Wicket-Keeper",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170914/liton-das.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Shakib Al Hasan",
+        "country": "Bangladesh",
+        "bid": 450000,
+        "matches played": "76",
+        "role": "All Rounder",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170912/shakib-al-hasan.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Mohammad Nabi",
+        "country": "Afghanistan",
+        "bid": 300000,
+        "matches played": "77",
+        "role": "All Rounder",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170853/mohammad-nabi.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Glenn Maxwell",
+        "country": "Australia",
+        "bid": 650000,
+        "matches played": "69",
+        "role": "All Rounder",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170641/glenn-maxwell.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Andre Russell",
+        "country": "Windies",
+        "bid": 550000,
+        "matches played": "49",
+        "role": "All Rounder",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170821/andre-russell.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Rashid Khan",
+        "country": "Afghanistan",
+        "bid": 550000,
+        "matches played": "48",
+        "role": "Bowler",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170857/rashid-khan.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Mitchell Starc",
+        "country": "Australia",
+        "bid": 450000,
+        "matches played": "35",
+        "role": "Bowler",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170643/mitchell-starc.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Kagiso Rabada",
+        "country": "South Africa",
+        "bid": 600000,
+        "matches played": "26",
+        "role": "Bowler",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170759/kagiso-rabada.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Trent Boult",
+        "country": "New Zealand",
+        "bid": 450000,
+        "matches played": "31",
+        "role": "Bowler",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170747/trent-boult.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Mustafizur Rahman",
+        "country": "Bangladesh",
+        "bid": 350000,
+        "matches played": "41",
+        "role": "Bowler",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170925/mustafizur-rahman.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Shaheen Afridi",
+        "country": "Pakistan",
+        "bid": 450000,
+        "matches played": "21",
+        "role": "Bowler",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170802/shaheen-afridi.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Ben Stokes",
+        "country": "England",
+        "bid": 300000,
+        "matches played": "29",
+        "role": "All Rounder",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170950/ben-stokes.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Jofra Archer",
+        "country": "England",
+        "bid": 600000,
+        "matches played": "7",
+        "role": "Bowler",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170970/jofra-archer.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Steve Smith",
+        "country": "Australia",
+        "bid": 250000,
+        "matches played": "45",
+        "role": "Batsman",
+        "img": "https://www.cricbuzz.com/a/img/v1/152x152/i1/c170624/steven-smith.jpg"
+    }
+]
